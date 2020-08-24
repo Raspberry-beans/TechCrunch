@@ -18,3 +18,4 @@ import scipy
 
 print("all modules imported successfully")
 print('Hello TechCruch')
+print("Just practitcing my course, ignore this pull request!")
